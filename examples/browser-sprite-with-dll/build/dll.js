@@ -128,7 +128,7 @@ var symbol = new __WEBPACK_IMPORTED_MODULE_0__node_modules_svg_baker_runtime_bro
   "id": "facebook",
   "use": "facebook-usage",
   "viewBox": "0 0 1000 1000",
-  "content": "<symbol xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1000 1000\" id=\"facebook\"><path d=\"M990 500c0-270.6-219.4-490-490-490S10 229.4 10 500s219.4 490 490 490 490-219.4 490-490zm-935.5 0C54.5 254 254 54.5 500 54.5S945.5 254 945.5 500 746.1 945.5 500 945.5C254 945.5 54.5 746 54.5 500z\" /><path d=\"M518.8 782.8V500h93.3l14.7-93.7h-108v-47c0-24.5 8-47.8 43.1-47.8h70.2V218h-99.6c-83.7 0-106.6 55.1-106.6 131.6v56.7h-57.5V500h57.5v282.8h92.9z\" /></symbol>"
+  "content": "<symbol xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1000 1000\"><path d=\"M990 500c0-270.6-219.4-490-490-490S10 229.4 10 500s219.4 490 490 490 490-219.4 490-490zm-935.5 0C54.5 254 254 54.5 500 54.5S945.5 254 945.5 500 746.1 945.5 500 945.5C254 945.5 54.5 746 54.5 500z\" /><path d=\"M518.8 782.8V500h93.3l14.7-93.7h-108v-47c0-24.5 8-47.8 43.1-47.8h70.2V218h-99.6c-83.7 0-106.6 55.1-106.6 131.6v56.7h-57.5V500h57.5v282.8h92.9z\" /></symbol>"
 });
 var result = __WEBPACK_IMPORTED_MODULE_1__runtime_browser_sprite_build_js___default.a.add(symbol);
 /* harmony default export */ __webpack_exports__["default"] = (symbol);
